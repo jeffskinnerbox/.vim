@@ -5,6 +5,11 @@ Version:      1.2.0
 
 ----
 
+Is it time to use some type of suggestions as you write comments or code, in the sperit of ChatGPT?
+Consider [Codeium in Vim](https://codeium.com/vim_tutorial)
+
+----
+
 Is it time to move off of Pathogen to use vim's native plugin manager or some other plug manager?
 Tim Pope says you should - https://github.com/tpope/vim-pathogen
 
